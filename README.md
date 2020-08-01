@@ -1,1 +1,3 @@
-# Tusc-WooCommerce-Payment-Gateway
+# Tusc WooCommerce Payment Gateway Plugin
+
+This plugin allows payments with TUSC.
