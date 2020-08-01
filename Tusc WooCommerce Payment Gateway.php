@@ -24,7 +24,7 @@ function tusc_payment_init() {
                 $this->icon = apply_filters( 'woocommerce_tusc_icon', plugins_url('/assets/icon.png', __FILE__ ) );
                 $this->has_fields = false;
                 $this->method_title = __( 'Tusc Payment', 'tusc-pay-woo');
-                $this->method_description = __( 'Tusc local content payment systems.', 'tusc-pay-woo');
+                $this->method_description = __( 'Tusc Payment Gateway.', 'tusc-pay-woo');
 
                 $this->title = $this->get_option( 'title' );
                 $this->description = $this->get_option( 'description' );
